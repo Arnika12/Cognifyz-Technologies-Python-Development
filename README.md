@@ -34,9 +34,12 @@ Task 3 : Automate a Task
 
 ## Tools & Technologies
 Python
+
 Version Control with Git
 
 ## Objectives
 To enhance Python programming skills.
+
 To gain practical experience in solving real-world problems.
+
 To apply theoretical knowledge in a professional environment.
